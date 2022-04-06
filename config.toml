@@ -1,6 +1,6 @@
 baseURL = "https://henryjimenezp.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Henry Jimenez"
+title = "Bitácora de Viaje de Henry Jiménez"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true

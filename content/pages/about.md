@@ -5,17 +5,12 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, mi nombre es Henry Jjiménez 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+>Estudié la carrera de Ingeniero en Computación.
+>Tengo 26 años
+>Soy de Baja California
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Me gusta demasiado el desarrollo web, así como el diseño, aprendo nuevas cosas que me interesan por mi cuenta.

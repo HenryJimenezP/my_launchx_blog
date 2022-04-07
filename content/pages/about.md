@@ -7,7 +7,7 @@ menu:
 
 ## ¿Quién soy?
 
-Hola, mi nombre es Henry Jjiménez 🤩
+Hola, mi nombre es Henry Jiménez 🤩
 
 >Estudié la carrera de Ingeniero en Computación.
 >Tengo 26 años

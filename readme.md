@@ -6,6 +6,7 @@ Hola explorer 👋
 
 Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
 
+## Visita mi Blog
 ### [Link Blog](https://henryjimenezp.github.io/my_launchx_blog/)
 
 Así como también puedes crear tu **Workbook**:
